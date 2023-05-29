@@ -1,2 +1,2 @@
-# PreEntrega3Palacios
-https://github.com/AlanPalacios95/PreEntrega3Palacios-
+# PreEntrega3Palacios JavaScript 
+https://alanpalacios95.github.io/PreEntrega3Palacios-/
